@@ -6,7 +6,7 @@
 
 ## :star2: About Me
 - :mortar_board: Software Development and Network Engineering Graduate of 2023 at Sheridan College
-- :computer: Specializing in Backend and Mobile Development
+- :computer: Specializing in Full-Stack and Mobile Development
 - :palm_tree: Currently learning AI-related topics
 - Hobbies: :video_game: | :basketball: | :tennis: | 🎸
 
