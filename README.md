@@ -10,7 +10,7 @@
 - 🔨 I build web-apps with: ```Java``` ```Spring``` ```Angular``` ```TypeScript``` ```JavaScript```
 - 🧰 I create console-apps with: ```Python``` ```C++``` ```C#``` ```.NET Core```
 - 📱 I develop mobile-apps with: ```Swift & Xcode``` ```Kotlin & Android Studio``` 
-- :palm_tree: Currently learning AI-related topics
+- :palm_tree: Currently learning AI-related topics and trending frameworks
 - :zap: I enjoy playing my guitar 🎸, basketball 🏀, badminton 🏸, and gaming 🎮  
 
 ## :hammer: Languages and Tools
