@@ -1,7 +1,7 @@
 <h1 align="center">Hi :wave: My name is Jeciel Benerayan</h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=false&random=false&width=1000&lines=1 Year Tech Experience;Sheridan+College+SDNE+Graduate+of+2023;Software+Developer; Guitarist; Sports Enthusiast;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=false&random=false&width=1000&lines=Sheridan+College+SDNE+Graduate+of+2023;Software+Developer; Guitarist+|+Sports Enthusiast+|Casual+Gamer;" alt="Typing SVG" /></a>
 
 
 ## :star2: About Me
