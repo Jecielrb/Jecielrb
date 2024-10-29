@@ -7,7 +7,7 @@
 ## :star2: About Me
 - :mortar_board: Software Development and Network Engineering Graduate of 2023 at Sheridan College
 - :computer: Diversed software developer with experience in modern tech-stacks
-- :palm_tree: Currently learning AI-related topics and trending frameworks
+- :palm_tree: Currently practicing Data Structures & Algorithms
 - :zap: I enjoy playing my guitar 🎸, basketball 🏀, badminton 🏸, and gaming 🎮  
 
 ## :hammer: Languages and Tools
